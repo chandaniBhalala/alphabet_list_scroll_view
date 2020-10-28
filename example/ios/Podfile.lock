@@ -1,0 +1,28 @@
+PODS:
+  - alphabet_list_scroll_view (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - vibration (1.2.1):
+    - Flutter
+
+DEPENDENCIES:
+  - alphabet_list_scroll_view (from `.symlinks/plugins/alphabet_list_scroll_view/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - vibration (from `.symlinks/plugins/vibration/ios`)
+
+EXTERNAL SOURCES:
+  alphabet_list_scroll_view:
+    :path: ".symlinks/plugins/alphabet_list_scroll_view/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  vibration:
+    :path: ".symlinks/plugins/vibration/ios"
+
+SPEC CHECKSUMS:
+  alphabet_list_scroll_view: 4376abf6e9b580b218fe3f776dbcaf93a1bdf1cc
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  vibration: 43c56afb1cde649a25047a4335387a1bba11217c
+
+PODFILE CHECKSUM: 10ae9c18d12c9ffc2275c9a159a3b1e281990db0
+
+COCOAPODS: 1.6.1
